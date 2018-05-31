@@ -1,0 +1,49 @@
+.join-us.card {
+  border-color: #00B192;
+  margin-bottom: 20px;
+}
+.join-us .card-image-holder img {
+  height: 100%;
+  max-height: 150px;
+  width: 100%;
+}
+.join-us .card-body .card-title {
+  /*border: 1px solid black;*/
+  font-weight: bold;
+  text-align: center;
+}
+.join-us .card-body .card-title .fa {
+  color: gold;
+  margin: 5px;
+}
+.join-us .card-body .card-text {
+  text-align: center;
+  width: 100%;
+}
+.join-us .card-body button {
+  border-radius: 1px;
+  display: block;
+  margin-top: 10px;
+}
+.join-us .card-icon {
+  color: gold;
+  font-size: 50px;
+  margin-left: 82%;
+  margin-top: 10px;
+  position: absolute;
+}
+.join-us .card-footer {
+  background: #00B192;
+  color: white;
+  padding: 4px;
+  text-align: center;
+  font-style: italic;
+}
+.join-us .card-footer p {
+  margin: 0px;
+}
+.join-us .card-footer .fa {
+  font-size: 30px;
+  margin: 5px;
+}
+

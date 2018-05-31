@@ -1,0 +1,26 @@
+.main-header {
+  background-color: white;
+  margin: 0px;
+  margin-top: 58px;
+  padding: 15px;
+  width: 100%;
+}
+.main-header .image-holder img {
+  height: 100%;
+  max-height: 60px;
+  width: 100%;
+}
+.main-header .icons-holder {
+  margin-top: 3px;
+  text-align: center;
+}
+.main-header .icons-holder > span.fa {
+  color: lightgray;
+  font-size: 40px;
+  margin: 8px;
+}
+@media screen and (min-width: 540px) { 
+  .main-header .icons-holder { 
+    text-align: right;
+  } 
+}

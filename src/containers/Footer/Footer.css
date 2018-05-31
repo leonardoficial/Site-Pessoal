@@ -1,0 +1,36 @@
+.footer .list-group {
+  margin-top: 20px;
+}
+.footer .list-group-item {
+  background-color: transparent;
+  border: none;
+  color: lightgray;
+  padding: 4px;
+}
+.footer .list-group-item.list-header {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
+.footer .social-media.card {
+  background: transparent !important;
+  border: none;
+  color: white;
+}
+.footer .input-group {
+  margin-bottom: 20px;
+}
+.footer .social-media .card-header {
+  padding: 8px;
+}
+.footer .social-media .card-body {
+  padding: 5px;
+}
+.footer .social-media .card-body .fa {
+  font-size: 34px;
+  margin: 5px;
+}
+.footer .footer-copyright {
+  border-top: 1px solid white;
+  margin-top: 20px;
+}

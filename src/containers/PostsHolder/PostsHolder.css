@@ -1,0 +1,12 @@
+.posts-holder {
+  /*border: 1px solid black;*/
+  margin: 20px 0px;
+}
+.posts-holder .post-item-line {
+  margin-bottom: 20px;
+}
+.posts-holder .card {
+  border: none;
+  
+  border-radius: 0px;
+}

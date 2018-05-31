@@ -1,0 +1,33 @@
+.image-quote {
+  border: none;
+  border-radius: 2px;
+}
+.image-quote > .card-header {
+  height: 10%;
+}
+.image-quote > img {
+  border: 1px solid lightgray;
+  height: 78%;
+  max-height: 140px;
+  min-height: 120px;
+  width: 100%;
+}
+.image-quote .card-body {
+  padding: 6px;
+}
+.image-quote > .card-info {
+  color: gray;
+  font-weight: bold;
+  height: 12%;
+  line-height: 18px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  width: 100%;
+}
+.image-quote > .card-info .card-share {
+  float: right;
+}
+.image-quote > .card-info .card-share .fa {
+  color: black;
+  margin-right: 12px;
+}

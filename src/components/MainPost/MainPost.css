@@ -1,0 +1,28 @@
+.main-post {
+  margin-bottom: 10px;
+  padding: 0px;
+}
+.main-post > .img-holder img {
+  height: 100%;
+  margin: 0px;
+  max-height: 250px;
+  width: 100%;
+}
+.main-post > .post-body {
+  max-height: 250px;
+  padding: 18px;
+  overflow: hidden;
+}
+.main-post > .post-body .post-info {
+  color: gray;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+}
+.main-post > .post-body .card-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.main-post > .post-body .card-text {
+  color: gray;
+}  

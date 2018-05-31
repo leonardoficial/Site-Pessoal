@@ -1,0 +1,25 @@
+.pagination-nav {
+  margin-top: 50px;
+}
+.pagination-nav .pagination {
+  margin: 0;
+  padding: 4px;
+}
+.pagination-nav .pagination .page-item {
+  margin: 0 4px;
+}
+.pagination-nav .pagination .page-item a {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid #00B192;
+  font-weight: bold;
+  outline: 1px solid white;
+}
+
+.pagination-nav .pagination .page-item:first-child a,
+.pagination-nav .pagination .page-item:last-child a {
+  border: 2px solid #00B192;
+  border-radius: 0px;
+  /*border-bottom-left-radius: 60px;
+  border-top-left-radius: 60px;*/
+}

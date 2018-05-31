@@ -1,0 +1,8 @@
+.badge-list .tags-group {
+  padding: 4px;
+}
+.badge-list .tags-group span {
+  border-radius: 1px;
+  margin: 4px;
+  padding: 6px;
+}

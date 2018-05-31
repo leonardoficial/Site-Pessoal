@@ -1,0 +1,26 @@
+.card-post.card {
+  background: transparent;
+  border-radius: 0px;
+  margin-bottom: 20px;
+}
+.card-post.card .card-img-top {
+  background: #fff;
+  border-radius: 0px;
+  padding: 6px;
+}
+.card-post.card img {
+  border: 1px solid black;
+  max-height: 140px;
+  width: 100%;
+}
+.card-post.card .card-body {
+  background: #fff; 
+  padding: 5px 10px;
+  padding-bottom: 20px;
+}
+.card-post.card .card-body .card-title {
+  font-size: 24px;
+}
+.card-post.card .card-body .card-text {
+  color: gray;
+}

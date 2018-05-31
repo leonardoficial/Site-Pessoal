@@ -1,0 +1,88 @@
+.article-full .header-holder {
+  background-color: #00B192;
+  border-bottom: 2px solid lightgray;
+  border-top: 1px solid black;
+  padding: 5px;
+  padding-bottom: 70px;
+}
+.article-full .header-holder .tag {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.article-full .header-holder .header-info {
+  border: 1px solid red;
+  color: white;
+  padding: 4px 0px;
+  text-align: left;
+}
+.article-full .header-holder .header-info > div {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+.article-full .header-holder .header-info > div .fa {
+  margin-right: 6px;
+  width: 20px;
+}
+
+
+.article-full .page-body {
+  background: #fff;
+  border: 1px solid lightgray;
+  box-shadow: 0px 0px 8px black;
+  margin-bottom: 40px;
+  margin-top: -50px;
+  padding: 20px;
+}
+
+.article-full .article-header {
+  padding: 10px;
+  text-align: center;
+}
+.article-full .article-header .main-icon {
+  color: #00B192;
+  font-size: 40px;
+  display: block;
+  margin-bottom: 28px;
+  text-align: center;
+  width: 100%;
+}
+.article-full .article-header .article-title {
+  font-weight: bold;
+}
+.article-full .article-header small {
+  color: lightgray;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+.article-full .article-body .image-holder {
+  border: 1px solid red;
+  height: 200px;
+  width: 100%;
+}
+.article-full .article-body .article-full-image {
+  border: 1px solid black;
+  height: 100%;
+  width: 100%;
+}
+.article-full .article-body .image-holder .black-opac {
+  height: 200px;
+  opacity: 0.3;
+  position: absolute;
+  width: 100%;
+}
+.article-full .article-body .article-content {
+  padding: 10px;
+}
+.article-full .article-footer {
+  margin: 20px 0px;
+}
+.article-full .article-footer .article-related {
+  padding: 10px 20px;
+}
+.article-full .article-footer .article-related > h1 {
+  padding: 8px;
+}

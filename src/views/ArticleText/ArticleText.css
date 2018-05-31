@@ -1,0 +1,92 @@
+.article-text .page-body {
+  margin-top: 90px;
+}
+.article-text .article-header {
+  padding: 10px;
+  text-align: center;
+}
+.article-text .article-header .main-icon {
+  color: #00B192;
+  font-size: 40px;
+  display: block;
+  margin-bottom: 28px;
+  text-align: center;
+  width: 100%;
+}
+.article-text .article-header .article-title {
+  font-weight: bold;
+}
+.article-text .article-header small {
+  color: lightgray;
+  font-size: 18px;
+  font-weight: bold;
+}
+.article-text .article-header .article-info {
+  color: gray;
+  margin-top: 50px;
+  padding: 4px 0px;
+  text-align: left;
+}
+.article-text .article-header .article-info > div {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+.article-text .article-header .article-info > div .fa {
+  color: #00B192;
+  margin-right: 6px;
+  width: 20px;
+}
+.article-text .article-body .article-main-icons,
+.article-text .article-body .article-tools {
+  border-bottom: 1px solid lightgray;
+  color: #00B192;
+  display: block;
+  font-size: 30px;
+  margin: 0 auto;
+  text-align: right;
+}
+.article-text .article-body .article-main-icons {
+  margin-top: -20px;
+}
+.article-text .article-body .article-main-icons .article-mark {
+  width: 60px;
+}
+.article-text .article-body .article-tools {
+  border-bottom: none;
+  color: gray;
+  display: block;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 4px;
+  text-align: left;
+}
+.article-text .article-body .article-tools .tools-group {
+  border: 1px solid lightgray;
+  border-radius: 2px;
+  display: inline-block;
+  margin: 8px;
+  margin-left: 0;
+  margin-right: 8px;
+  padding: 2px 6px;
+}
+.article-text .article-body .image-holder .black-opac {
+  height: 200px;
+  opacity: 0.3;
+  position: absolute;
+  width: 100%;
+}
+.article-text .article-body .article-content {
+  margin-top: 20px;
+  padding: 10px;
+}
+.article-text .article-footer {
+  margin: 20px 0px;
+}
+.article-text .article-footer .article-related {
+  padding: 10px 20px;
+}
+.article-text .article-footer .article-related > h1 {
+  padding: 8px;
+}

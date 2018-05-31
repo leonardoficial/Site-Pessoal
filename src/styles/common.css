@@ -1,0 +1,25 @@
+html, body { margin: 0px; width: 100%; }
+
+.page-body { margin-top: 110px; }
+
+.black-opac {
+  background-color: black;
+  opacity: 0.5;
+}
+.text-border {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 4px;
+  text-transform: uppercase;
+  text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 
+  1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+}
+.content-after:after {
+  content: " — ";
+}
+.all-sides-shadow {
+  box-shadow: 0 0 5px black;
+}
+
+
+

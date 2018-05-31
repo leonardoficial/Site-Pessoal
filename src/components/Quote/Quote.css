@@ -1,0 +1,16 @@
+.quote {
+  background: white;
+  border: none;
+  border-top: none;
+  font-style: italic;
+  font-weight: bold;
+  height: 10%;
+  padding: 6px 10px;
+}
+.quote .quote-mark {
+  font-size: 20px;
+  margin-right: 6px;
+}
+.quote .quote-author {
+  color: gray;
+}

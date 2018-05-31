@@ -1,0 +1,17 @@
+.block-list.card {
+  border-radius: 2px;
+  border: none;
+  margin-bottom: 20px;
+}
+.block-list .card-header {
+  background: #26282B;
+  border-radius: 2px;
+  color: white;
+  font-weight: bold;
+}
+.block-list .list-group .list-group-item {
+  border-radius: 0px;
+}
+.block-list .list-group a {
+  color: black;
+}

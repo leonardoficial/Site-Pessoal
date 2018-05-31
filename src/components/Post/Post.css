@@ -1,0 +1,42 @@
+.post-item-line {
+  
+}
+.post-item-line .post-image-holder {
+  height: 100%;
+  padding: 0px;
+  padding-bottom: 4px;
+}
+.post-item-line .post-image-holder img {
+  border-radius: 0px;
+  height: 100%;
+  margin-top: 5px;
+  max-height: 150px;
+  width: 100%;
+}
+.post-item-line .post-body {
+  border-radius: 0px;
+  font-size: 110%;
+  height: 100%;
+  padding: 10px;
+  padding-top: 0px;
+  padding-top: 0px;
+}
+.post-item-line .post-body .post-title {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 0px;
+  width: 100%;
+}
+.post-item-line .post-body .post-content {
+  color: #808080;
+  font-size: 18px;
+  padding: 0px;
+  width: 100%;
+}
+.post-item-line .post-body .post-info {
+  color: gray;
+  font-weight: bold;
+  line-height: 18px;
+  padding: 6px 0px;
+  width: 100%;
+}

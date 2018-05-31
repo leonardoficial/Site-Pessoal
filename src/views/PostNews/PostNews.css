@@ -1,0 +1,52 @@
+.post-news {
+  background: #eee;
+}
+
+.post-news .filter-holder {
+  background-color: #00B192;
+  border-bottom: 2px solid black;
+  border-top: 1px solid black;
+  padding: 8px;
+}
+.post-news .filter-holder .tag {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.post-news .filter-holder .category-holder {
+  padding: 10px;
+}
+.post-news .filter-holder .category-holder .badge-list {
+  
+}
+.post-news .filter-holder .category-holder .badge-list span {
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 0px;
+  box-shadow: 0 8px 12px -8px black;
+  color: white;
+  margin: 6px;
+  margin-left: 0px;
+  outline: 1px solid black;
+}
+
+.post-news .filter-holder .input-holder {
+  padding: 10px;
+}
+.post-news .filter-holder .input-holder input {
+  border-radius: 2px;
+}
+
+
+.post-news .page-body {
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+
+
+
+
+
+
+

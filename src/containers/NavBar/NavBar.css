@@ -1,0 +1,30 @@
+.navbar {
+  background: #00B192;
+  border-bottom: 1px solid lightgray;
+}
+.navbar .nav-item {
+  margin-bottom: -9px;
+}
+.navbar .navbar-brand {
+  color: white;
+  font-weight: bold;
+}
+.navbar .navbar-toggler-icon {
+  border: 1px solid white;
+  color: white;
+}
+.navbar .nav-link {
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.navbar .nav-link .login-icon {
+  margin-top: -10px;
+}
+.navbar .active {
+  background-color: white;
+  border: 1px solid lightgray;
+  border-bottom: none;
+  height: 50px;
+/*  color: black;*/
+}

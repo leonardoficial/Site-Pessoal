@@ -1,0 +1,6 @@
+.tiny-posts-holder {
+  margin-top: -4px;
+}
+.tiny-posts-holder > .row > .col-6 {
+  padding: 4px;
+}
