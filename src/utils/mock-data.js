@@ -1,3 +1,4 @@
+
 // #
 const MainPost = {
   time: "12 min",
@@ -117,7 +118,7 @@ const PostsHolder = [
 const Posts = {
   "Guerra Civil gera discussões entre fãs e entusiastas": {
     text: (
-      require("./posts/Guerra Civil gera discussões entre fãs e entusiastas.txt")
+  require("./posts/Guerra Civil gera discussões entre fãs e entusiastas.txt")
     )
   }
 }
