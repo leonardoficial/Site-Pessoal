@@ -1,9 +1,9 @@
 .article-full .main-bar {
   background-color: #00B192;
-  border-bottom: 1px solid black;
-  border-top: 1px solid black;
+  border-bottom: 1px solid lightgray;
+  border-top: 1px solid lightgray;
   margin-bottom: 20px;
-  padding: 10px;
+  padding: 4px;
   width: 100%;
 }
 
@@ -67,7 +67,7 @@
 .article-full .article-info {
   color: gray;
   font-weight: bold;
-  margin-bottom: 14px;
+  margin-bottom: 5px;
   padding: 0 6px;
 }
 .article-full .article-info .bar {

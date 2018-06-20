@@ -1,9 +1,6 @@
 .navbar {
   background: #00B192;
-  border-bottom: 1px solid lightgray;
-}
-.navbar .nav-item {
-  margin-bottom: -9px;
+  border-bottom: 2px solid lightgray;
 }
 .navbar .navbar-brand {
   color: white;
@@ -19,9 +16,18 @@
   width: 36px;
 }
 
+
 .navbar .navbar-toggler-icon {
   border: 1px solid white;
   color: white;
+}
+
+.navbar .collapse {
+  padding: 0px;
+  width: 100%;
+}
+.navbar .nav-item {
+  margin: 0px;
 }
 .navbar .nav-link {
   color: white;

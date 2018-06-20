@@ -3513,7 +3513,57 @@ html, body { margin: 0px; width: 100%; }
   padding: 15px;
   margin: 0px;
 }
-.navbar {
+.main-header {
+  background-color: white;
+  margin: 0px;
+  margin-top: 58px;
+  padding: 15px;
+  width: 100%;
+}
+.main-header .image-holder img {
+  height: 100%;
+  max-height: 60px;
+  width: 100%;
+}
+.main-header .icons-holder {
+  margin-top: 3px;
+  text-align: center;
+}
+.main-header .icons-holder > span.fa {
+  color: lightgray;
+  font-size: 40px;
+  margin: 8px;
+}
+@media screen and (min-width: 540px) { 
+  .main-header .icons-holder { 
+    text-align: right;
+  } 
+}.card-post.card {
+  background: transparent;
+  border-radius: 0px;
+  margin-bottom: 20px;
+}
+.card-post.card .card-img-top {
+  background: #fff;
+  border-radius: 0px;
+  padding: 6px;
+}
+.card-post.card img {
+  border: 1px solid black;
+  max-height: 140px;
+  width: 100%;
+}
+.card-post.card .card-body {
+  background: #fff; 
+  padding: 5px 10px;
+  padding-bottom: 20px;
+}
+.card-post.card .card-body .card-title {
+  font-size: 24px;
+}
+.card-post.card .card-body .card-text {
+  color: gray;
+}.navbar {
   background: #00B192;
   border-bottom: 1px solid lightgray;
 }
@@ -3552,31 +3602,6 @@ html, body { margin: 0px; width: 100%; }
   border-bottom: none;
   height: 50px;
 /*  color: black;*/
-}.main-header {
-  background-color: white;
-  margin: 0px;
-  margin-top: 58px;
-  padding: 15px;
-  width: 100%;
-}
-.main-header .image-holder img {
-  height: 100%;
-  max-height: 60px;
-  width: 100%;
-}
-.main-header .icons-holder {
-  margin-top: 3px;
-  text-align: center;
-}
-.main-header .icons-holder > span.fa {
-  color: lightgray;
-  font-size: 40px;
-  margin: 8px;
-}
-@media screen and (min-width: 540px) { 
-  .main-header .icons-holder { 
-    text-align: right;
-  } 
 }.footer .list-group {
   margin-top: 20px;
 }
@@ -3612,31 +3637,6 @@ html, body { margin: 0px; width: 100%; }
 .footer .footer-copyright {
   border-top: 1px solid white;
   margin-top: 20px;
-}.card-post.card {
-  background: transparent;
-  border-radius: 0px;
-  margin-bottom: 20px;
-}
-.card-post.card .card-img-top {
-  background: #fff;
-  border-radius: 0px;
-  padding: 6px;
-}
-.card-post.card img {
-  border: 1px solid black;
-  max-height: 140px;
-  width: 100%;
-}
-.card-post.card .card-body {
-  background: #fff; 
-  padding: 5px 10px;
-  padding-bottom: 20px;
-}
-.card-post.card .card-body .card-title {
-  font-size: 24px;
-}
-.card-post.card .card-body .card-text {
-  color: gray;
 }/*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)

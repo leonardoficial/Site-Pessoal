@@ -1,6 +1,7 @@
 .image-quote {
   border: none;
   border-radius: 2px;
+  margin-bottom: 20px;
 }
 .image-quote > .card-header {
   height: 10%;
@@ -13,7 +14,7 @@
   width: 100%;
 }
 .image-quote .card-body {
-  padding: 6px;
+  padding: 8px;
 }
 .image-quote > .card-info {
   color: gray;

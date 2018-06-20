@@ -26,7 +26,7 @@ class ArticleFull extends Component {
         <NavBar />
         <MainHeader />
         
-        <div class="main-bar" />
+        {/* <div class="main-bar" /> */ }
         
         <div class="container page-body">
           <div class="article-header">

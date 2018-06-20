@@ -22,7 +22,7 @@ class NavBar extends Component {
     return(
     
       <nav class="navbar navbar-expand-sm fixed-top">
-        <div class="container">
+      
         
           <a class="navbar-brand" href="#">
             <span class="fa fa-bullhorn" /> O|E|P
@@ -51,7 +51,7 @@ class NavBar extends Component {
             </ul>
           </div>
           
-        </div>
+       
       </nav>
     )
   }
