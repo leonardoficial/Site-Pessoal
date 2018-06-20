@@ -4,7 +4,7 @@ import { render } from "react-dom"
 import "./utils/preload.js"
 import "./styles/styles.js"
 
-import App from "./views/ArticleFull/ArticleFull.jsx"
+import App from "./views/Home/Home.jsx"
 
 render(
   <App />,
